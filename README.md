@@ -1,5 +1,5 @@
 # pandas-challenge
-Reprt
+Report
 
 Trend Number 1
 
